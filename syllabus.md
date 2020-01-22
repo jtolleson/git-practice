@@ -21,3 +21,5 @@ I am a PhD student at [The Graduate Center, CUNY](https://www.gc.cuny.edu).
 - Robinson, Cedric J. 2000. *Black Marxism: The Making of the Black Radical Tradition*. Univ of North Carolina Press.
 
 ### Week Two
+
+### Week Three
