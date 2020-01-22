@@ -20,4 +20,4 @@ I am a PhD student at [The Graduate Center, CUNY](https://www.gc.cuny.edu).
 - Oliver, Lawrence J. 2014. “Apocalyptic and Slow Violence: The Environmental Vision of WEB Du Bois’s Darkwater.” *Interdisciplinary Studies in Literature and Environment* 22 (3): 466–484.
 - Robinson, Cedric J. 2000. *Black Marxism: The Making of the Black Radical Tradition*. Univ of North Carolina Press.
 
-
+### Week Two
