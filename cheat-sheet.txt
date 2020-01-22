@@ -1,0 +1,33 @@
+pwd: where you are (which folder)
+echo: repeating things and also inputing text into a text file, with a single arrow sign it erases prior text and with two arrows it adds the text.
+cat: reading text files
+ls: lists files and folders in a director
+cd: changes directory
+cd ..: go back up the 
+tab: fills in the name of a folder or file
+mv: move
+mkdir: make new directory or folder
+> redirect: it erases and replaces text in file e.g. "echo 'this is my cheat sheet' > cheatsheet.txt
+>> redirect: it adds text to already existing text in file
+| pipe: take the output of one command and use it as the input for another
+cntrl c: get out of a command, back to $
+wc -w: counts words in a file
+wc -l: counts lines in a file
+sort: abc
+control c: to stop an operation/function in process
+less: get data one page at a time; q key to quit
+head: very first section of file
+tail: very last section of file
+.csv: comma-separated values (like excel in text format); each line is like an excel line, with commas separating columns
+uniq: only selects non-repeated data
+grep: 'global regular expression point' searches a file; add -i to disregard upper/lower caps
+-i to disregard upper/lower caps
+clear or command-k: clears terminal
+history > history.txt
+
+git status: to see whether git recognizes new files
+git log: recognition of changes made
+git add filename
+git commit -m “[change description]”
+git push origin master
+
